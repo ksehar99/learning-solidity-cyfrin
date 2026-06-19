@@ -1,5 +1,6 @@
 # Blockchain Learning
-Documenting my Solidity journey using the Cyfrin Updraft course.
+Hi, I'm Khadija Sehar, a Solidity developer in training from Karachi, Pakistan.    
+Here documenting my Solidity journey using the Cyfrin Updraft course.
 
 ## Course
 [Cyfrin Updraft](https://updraft.cyfrin.io) — Solidity Smart Contract Development
@@ -16,12 +17,20 @@ Documenting my Solidity journey using the Cyfrin Updraft course.
 - Mappings
 - Deploying first contract on testnet via MetaMask
 
+*Deploying my first contract on Sepolia testnet via MetaMask was
+fascinating - seeing code go live on an actual blockchain 
+for the first time felt very real.*
+
 ### Solidity 101 — Section 2 — Storage Factory
 - Factory pattern — deploying contracts from within a contract
 - Importing contracts into other contracts
 - Composability in Solidity
 - Interacting with other contracts using ABI + Address
 - Inheritance & function overrides — virtual & override keywords
+
+*The factory pattern genuinely surprised me — I didn't expect that a contract 
+could deploy and manage other contracts entirely on-chain. It shifted how I 
+think about composability in Solidity.*
 
 ## Tools Used
 - [Remix IDE](https://remix.ethereum.org)
